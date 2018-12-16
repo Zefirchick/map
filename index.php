@@ -34,7 +34,7 @@
               </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="spravka.php">Как пользоваться картой</a>
+              <a class="nav-link" href="spravka.php">Как пользоваться</a>
             </li>
         </div>
     </nav>
